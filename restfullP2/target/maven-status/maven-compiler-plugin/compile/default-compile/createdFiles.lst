@@ -1,0 +1,8 @@
+br\senac\tads4b\as\restfullp2\resource\PessoaResource.class
+br\senac\tads4b\as\restfullp2\model\Pessoa.class
+br\senac\tads4b\as\restfullp2\Main.class
+br\senac\tads4b\as\restfullp2\model\Carro.class
+br\senac\tads4b\as\restfullp2\resource\CursoResource.class
+br\senac\tads4b\as\restfullp2\resource\CarroResource.class
+br\senac\tads4b\as\restfullp2\model\Curso.class
+.netbeans_automatic_build
